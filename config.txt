@@ -1,0 +1,7 @@
+!
+!Configuration settings
+!add "!" to begining of line to ignore it
+!
+!ProjectFolder: C:\www\AskScienceMikeQuestions
+Spreadsheet: https://docs.google.com/spreadsheets/d/1Z3TAZ6FSiqKcPccRqDvP6mk5ARQrvNMCMsoekWDwSWI/edit#gid=0
+GitHub_Repo:
