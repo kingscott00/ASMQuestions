@@ -1,7 +1,6 @@
-!
 !Configuration settings
-!add "!" to begining of line to ignore it
-!
-!ProjectFolder: C:\www\AskScienceMikeQuestions
-Spreadsheet: https://docs.google.com/spreadsheets/d/1Z3TAZ6FSiqKcPccRqDvP6mk5ARQrvNMCMsoekWDwSWI/edit#gid=0
+ProjectFolder: C:\www\AskScienceMikeQuestions
+googledownloadlink: https://docs.google.com/spreadsheets/d/{KEY}/export?format=tsv&id={KEY}&gid=0
+SpreadsheetKey: 1NspVr1JD0RJQpbDxtW7ieKnchj0RixWfk2uINwSDEqY
 GitHub_Repo:
+Website: https://kingscott00.github.io/ASMQuestions/
